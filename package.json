@@ -1,0 +1,22 @@
+{
+  "name": "teste-tecnico",
+  "version": "1.0.0",
+  "description": "Simular o jogo de dados de 06 faces",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JorgeFVS/Teste-tecnico.git"
+  },
+  "author": "JorgeFVS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JorgeFVS/Teste-tecnico/issues"
+  },
+  "homepage": "https://github.com/JorgeFVS/Teste-tecnico#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
