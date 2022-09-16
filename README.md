@@ -1,5 +1,5 @@
 
-# Teste Técnico - Loggi
+# Teste Técnico
 
 ## Projeto Livre - Simulador de n Dados de 6 faces
 
